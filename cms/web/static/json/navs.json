@@ -1,0 +1,48 @@
+{
+	"activity": [
+		{
+			"title": "活动管理",
+			"icon": "icon-vip",
+			"href": "/index.php?r=activity/index",
+			"spread": false
+		},
+		{
+			"title": "参与人管理",
+			"icon": "&#xe770;",
+			"href": "/index.php?r=member/index",
+			"spread": false
+		},
+		{
+			"title": "获奖管理",
+			"icon": "&#xe65e;",
+			"href": "/index.php?r=activity/management",
+			"spread": false
+		},
+		{
+			"title": "抽奖问题管理",
+			"icon": "&#xe6b2;",
+			"href": "/index.php?r=activity-question/index",
+			"spread": false
+		},
+		{
+			"title": "抽奖奖项配置",
+			"icon": "&#xe620;",
+			"href": "/index.php?r=activity-config/index",
+			"spread": false
+		},
+		{
+			"title": "活动数据统计",
+			"icon": "&#xe60a;",
+			"href": "/index.php?r=activity/activity-count",
+			"spread": false
+		},
+		{
+			"title": "人员统计",
+			"icon": "&#xe621;",
+			"href": "/index.php?r=member/member-count",
+			"spread": false
+		}
+	]
+}
+
+
